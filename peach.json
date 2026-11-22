@@ -1,0 +1,9 @@
+{
+  "name": "蜜桃橙",
+  "author": "微尽索",
+  "type": "gradient",
+  "value": "linear-gradient(160deg,#ffe0c2 0%,#ffc09a 34%,#ff9f7a 66%,#ef7d63 100%)",
+  "representative": "#ff9f7a",
+  "opacity": 84,
+  "blur": 28
+}

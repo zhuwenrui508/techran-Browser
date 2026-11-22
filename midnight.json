@@ -1,0 +1,9 @@
+{
+  "name": "午夜蓝",
+  "author": "微尽索",
+  "type": "gradient",
+  "value": "linear-gradient(160deg,#3a5f9e 0%,#2b4478 40%,#1d2f57 72%,#121d38 100%)",
+  "representative": "#2b4478",
+  "opacity": 76,
+  "blur": 26
+}

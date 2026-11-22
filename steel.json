@@ -1,0 +1,9 @@
+{
+  "name": "冷钢蓝",
+  "author": "微尽索",
+  "type": "gradient",
+  "value": "linear-gradient(160deg,#cfd9e6 0%,#9db0c9 36%,#6d829f 70%,#455568 100%)",
+  "representative": "#9db0c9",
+  "opacity": 88,
+  "blur": 30
+}

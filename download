@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec.working
+
+# Inno Setup 产物
+installer/输出/
+
+# 用户数据（不进仓库）
+aqua_qt_settings.json
+aqua_history.json
+aqua_downloads.json
+aqua_bookmarks.json
+downloads/
+
+# 临时测试产物
+_vf/
+_vid_end_*.jpg
+_*.png
+_test_*.py
+_*_test.py
+_shot_*.py
+_exe*.py
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,9 @@
+{
+  "name": "樱花粉",
+  "author": "微尽索",
+  "type": "gradient",
+  "value": "linear-gradient(160deg,#ffe3ef 0%,#ffb3cf 34%,#f78fb3 66%,#d96a9a 100%)",
+  "representative": "#f78fb3",
+  "opacity": 84,
+  "blur": 30
+}

@@ -1,0 +1,9 @@
+{
+  "name": "薄荷绿",
+  "author": "微尽索",
+  "type": "gradient",
+  "value": "linear-gradient(160deg,#d4f5e9 0%,#9fe3cd 36%,#66c9ae 70%,#3f9e88 100%)",
+  "representative": "#9fe3cd",
+  "opacity": 86,
+  "blur": 30
+}

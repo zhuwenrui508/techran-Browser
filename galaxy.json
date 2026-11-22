@@ -1,0 +1,9 @@
+{
+  "name": "银河紫",
+  "author": "微尽索",
+  "type": "gradient",
+  "value": "linear-gradient(160deg,#6f5bd6 0%,#4b3a9e 38%,#332670 70%,#1e1748 100%)",
+  "representative": "#4b3a9e",
+  "opacity": 78,
+  "blur": 26
+}

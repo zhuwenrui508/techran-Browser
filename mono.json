@@ -1,0 +1,9 @@
+{
+  "name": "极简灰",
+  "author": "微尽索",
+  "type": "gradient",
+  "value": "linear-gradient(160deg,#f7f7f9 0%,#e6e6ea 40%,#cfcfd6 72%,#adadb8 100%)",
+  "representative": "#e6e6ea",
+  "opacity": 90,
+  "blur": 32
+}

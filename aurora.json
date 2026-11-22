@@ -1,0 +1,9 @@
+{
+  "name": "极光青",
+  "author": "微尽索",
+  "type": "gradient",
+  "value": "linear-gradient(160deg,#8ff3d6 0%,#3ec6c0 38%,#2b8fa8 72%,#245d86 100%)",
+  "representative": "#3ec6c0",
+  "opacity": 82,
+  "blur": 28
+}

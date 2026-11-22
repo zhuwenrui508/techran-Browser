@@ -1,0 +1,9 @@
+{
+  "name": "柑橘黄",
+  "author": "微尽索",
+  "type": "gradient",
+  "value": "linear-gradient(160deg,#fff3b0 0%,#ffe066 34%,#ffc53d 68%,#f0a500 100%)",
+  "representative": "#ffe066",
+  "opacity": 88,
+  "blur": 30
+}

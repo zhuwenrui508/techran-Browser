@@ -1,0 +1,9 @@
+{
+  "name": "暮色",
+  "author": "微尽索",
+  "type": "gradient",
+  "value": "linear-gradient(160deg,#ffb37a 0%,#e8738f 32%,#8a5c9e 66%,#3b3566 100%)",
+  "representative": "#e8738f",
+  "opacity": 82,
+  "blur": 28
+}
